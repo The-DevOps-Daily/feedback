@@ -97,6 +97,8 @@ Here's what happens after you submit feedback:
 - [Blog Posts](https://devops-daily.com/posts)
 - [Categories](https://devops-daily.com/categories)
 - [Tags](https://devops-daily.com/tags)
+- [Quizzes](https://devops-daily.com/quizzes)
+- [Games](https://devops-daily.com/games)
 
 ## 🙏 Thank You
 
